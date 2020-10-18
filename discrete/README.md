@@ -1,4 +1,4 @@
-# LAP/PAL with TD3 for Discrete Action Domains
+# LAP/PAL with DDQN for Discrete Action Domains
 
 Code for Loss-Adjusted Prioritized (LAP) experience replay and Prioritized Approximation Loss (PAL) with Double DQN.
 
