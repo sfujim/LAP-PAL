@@ -10,7 +10,8 @@ The [paper](https://arxiv.org/abs/2007.06049) will be presented at NeurIPS 2020.
 @article{fujimoto2020equivalence,
   title={An Equivalence between Loss Functions and Non-Uniform Sampling in Experience Replay},
   author={Fujimoto, Scott and Meger, David and Precup, Doina},
-  journal={arXiv preprint arXiv:2007.06049},
+  journal={Advances in Neural Information Processing Systems},
+  volume={33},
   year={2020}
 }
 ```
